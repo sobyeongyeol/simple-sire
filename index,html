@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+    </head>
+    <body>
+        <h2>지하철 4호선 노선도</h2>
+        <ul>
+            <li>당고개</li>
+            <li>상계</li>
+            <li><u>노원</u></li>
+            <li><u>창동</u></li>
+            <li>쌍문</li>
+            <li>수유</li>
+            <li>미아</li>
+            <li>미아사거리</li>
+            <li>길음</li>
+            <li><u>성신여대입구</u></li>
+            <li>한성대입구</li>
+            <li>혜화</li>
+            <li><u>동대문</u></li>
+            <li><u>동대문역사문화공원</u></li>
+            <li><u>충무로</u></li>
+        </ul>
+    </body>
+</html>
